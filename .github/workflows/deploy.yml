@@ -21,6 +21,9 @@ jobs:
       - name: Install node dependencies
         run: yarn install
 
+      - name: Build project
+        run: yarn build
+
       - name: Deploy to bible.mspencer.io
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
