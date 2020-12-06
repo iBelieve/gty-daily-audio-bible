@@ -1,0 +1,28 @@
+{
+  "name": "gty-daily-audio-bible",
+  "version": "1.0.0",
+  "description": "GTY Daily Audio Bible Devotion",
+  "main": "src/index.js",
+  "repository": "https://github.com/iBelieve/gty-daily-audio-bible",
+  "author": "Michael Spencer <sonrisesoftware@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html",
+    "prebuild": "rimraf .cache dist",
+    "build": "parcel build src/index.html",
+    "deploy": "surge dist bible.mspencer.io"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.8",
+    "rimraf": "^3.0.2",
+    "surge": "^0.21.7",
+    "svelte": "^3.31.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Safari versions",
+    "last 2 Firefox versions"
+  ]
+}
