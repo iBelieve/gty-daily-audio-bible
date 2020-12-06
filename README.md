@@ -1,7 +1,7 @@
 # Daily Audio Bible
 
-![GitHub](https://img.shields.io/github/license/ibelieve/gty-daily-audio-bible?style=flat-square) |
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ibelieve/gty-daily-audio-bible/deploy?style=flat-square) |
+![GitHub](https://img.shields.io/github/license/ibelieve/gty-daily-audio-bible?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ibelieve/gty-daily-audio-bible/Deploy/master?style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 
 A simple web app displaying daily Bible readings from the one-year Bible reading plan in the [MacArthur Daily Bible](https://www.gty.org/library/devotionals/daily-bible), published by [Grace to You](https://www.gty.org/).
