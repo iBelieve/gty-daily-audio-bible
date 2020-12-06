@@ -145,9 +145,12 @@
 
   <footer class:hide={!loaded}>
     Daily Bible readings from the one-year reading plan in the
-    <a href="https://www.gty.org/library/devotionals/daily-bible">MacArthur
-      Daily Bible</a>, copyright
+    <a
+      href="https://www.gty.org/library/devotionals/daily-bible"
+      target="_blank">MacArthur Daily Bible</a>, copyright
     {copyright}. Built by
-    <a href="https://github.com/ibelieve/gty-daily-audio-bible">Michael Spencer</a>.
+    <a
+      href="https://github.com/ibelieve/gty-daily-audio-bible"
+      target="_blank">Michael Spencer</a>.
   </footer>
 </div>
