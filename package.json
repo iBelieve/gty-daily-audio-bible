@@ -14,7 +14,7 @@
     "deploy": "surge dist bible.mspencer.io"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
+    "parcel-bundler": "^1.12.5",
     "parcel-plugin-svelte": "^4.0.8",
     "rimraf": "^3.0.2",
     "surge": "^0.21.7",
