@@ -18,7 +18,7 @@
     "parcel-plugin-svelte": "^4.0.8",
     "rimraf": "^3.0.2",
     "surge": "^0.21.7",
-    "svelte": "^3.31.0"
+    "svelte": "^3.40.0"
   },
   "browserslist": [
     "last 2 Chrome versions",
